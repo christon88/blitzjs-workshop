@@ -1,7 +1,6 @@
 # Section 3 - Add TailwindCss
 ## Using Blitz Recipe
 1) Run `blitz install tailwind`
-*NB!* Might break due to this issue: https://github.com/blitz-js/blitz/issues/1879
 
 ## Setting up Tailwind manually
 1) Run `yarn add tailwindcss`
